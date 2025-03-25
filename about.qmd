@@ -1,0 +1,7 @@
+---
+title: "My Document"
+execute:
+  echo: false  # This hides all code by default
+  results: "hide"  # This hides the code output (optional, if you want to hide outputs as well)
+jupyter: python3
+---
